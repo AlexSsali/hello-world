@@ -1,1 +1,2 @@
-//dialog box
+//dialog box in javascript
+var print=confirm("hello world")
